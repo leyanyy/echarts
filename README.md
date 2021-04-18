@@ -1,3 +1,9 @@
+git clone https://github.com/leyanyy/echarts.git
+
+npm i 
+ 
+npm run serve
+
 # deno1
 
 ## Project setup
